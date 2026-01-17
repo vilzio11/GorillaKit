@@ -1,16 +1,20 @@
-# GorillaLoco+
-GorillaLoco+ is a Unity Project with Gorilla Tag locomotion based off of [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion) created by [Kerestell](https://github.com/Kerestell), now under the [Another Axiom](https://github.com/Another-Axiom/GorillaLocomotion) organization.
-
-<img src="https://github.com/developer9998/GorillaLocoPlus/assets/81720436/8dde44ed-27e6-4893-a1c8-0b910b338a00" width=64% height=auto>
-
-## About the Locomotion
-The locomotion used in GorillaLoco+ as mentioned prior is based off of [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion), albeit an updated version of the locomotion from April 2022. This locomotion introduces all-new mechanics such as tap sounds when you touch objects, and slippery surfaces such as ice, but it also includes updates and fixes to make it better to use for the player.
+# Gorilla Kit
+Gorilla Kit is a Unity Project based off [GorillaLoco+](https://github.com/developer9998/GorillaLocoPlus) with systems for making Gorilla Loco games.
 
 ## About the Project
-The project used for GorillaLoco+ is already ready for Virtual Reality for Oculus/Meta and Valve index devices, other devices can also be added with XR Plugin Management. The project also comes with a testing scene which utilizes different objects being used by the locomotion.
+This project was created to make systems for Gorilla Loco games easy to use and modify.
+
+## Project Plans and Components
+I plan on making all the systems feel immersive with stuff like pushing a slider with your finger instead of grabbing and pulling and pulling clothing out of a wardrobe and putting it on instead of pressing a button.
+
+### UI Interactibles
+Buttons, Toggles, Sliders, Displays
+
+### Prefabs or Full Devices
+Computer, Cosmetic Stand, Cosmetic Wardrobe
 
 ## Attribution
-If anything, please credit [Kerestell](https://github.com/Kerestell) for [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion), and if you prefer credit me for this project, although under no means is that last part needed.
+Please credit [Kerestell](https://github.com/Kerestell) for [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion).
 ```
 MIT License
 

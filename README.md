@@ -1,16 +1,12 @@
-# GorillaLoco+
-GorillaLoco+ is a Unity Project with Gorilla Tag locomotion based off of [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion) created by [Kerestell](https://github.com/Kerestell), now under the [Another Axiom](https://github.com/Another-Axiom/GorillaLocomotion) organization.
+# GorillaKit
 
-<img src="https://github.com/developer9998/GorillaLocoPlus/assets/81720436/8dde44ed-27e6-4893-a1c8-0b910b338a00" width=64% height=auto>
-
-## About the Locomotion
-The locomotion used in GorillaLoco+ as mentioned prior is based off of [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion), albeit an updated version of the locomotion from April 2022. This locomotion introduces all-new mechanics such as tap sounds when you touch objects, and slippery surfaces such as ice, but it also includes updates and fixes to make it better to use for the player.
+**GorillaKit** is a Unity Project for making Gorilla Loco games. It’s based on [GorillaLocoPlus](https://github.com/developer9998/GorillaLocoPlus) with Gorilla Tag April 2022 locomotion.
 
 ## About the Project
-The project used for GorillaLoco+ is already ready for Virtual Reality for Oculus/Meta and Valve index devices, other devices can also be added with XR Plugin Management. The project also comes with a testing scene which utilizes different objects being used by the locomotion.
+Gorilla Kit was made to reduce the amount of tutorials needed and to get a high quality project every time.
 
 ## Attribution
-If anything, please credit [Kerestell](https://github.com/Kerestell) for [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion), and if you prefer credit me for this project, although under no means is that last part needed.
+Please credit [Kerestell](https://github.com/Kerestell) for [GorillaLocomotion](https://github.com/Another-Axiom/GorillaLocomotion).
 ```
 MIT License
 
